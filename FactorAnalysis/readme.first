@@ -1,0 +1,3 @@
+This folder consists of data and files for Factor Analysis:
+- listart.py: Contains an unoptimized version of Python code to read the csv files and build Listener-Artist Interaction Matrix
+- listart_optimized.py: Contains an optimzed version of listart.py
